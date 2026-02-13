@@ -10,6 +10,8 @@ This project is now hosted on cloudflare pages
   
 https://sethispr.github.io/blair-utils/ is now used for testing
 
+This website is only used for public community, blair itself has its own dedicated image micro service written in Go with Gin as the web framework but it is not open sourced.
+
 current major issues:
 
 - introduces flickering (card appearing and disappearing when scrolling)
